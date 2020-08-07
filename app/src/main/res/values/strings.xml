@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Appz</string>
+
+    <string name="login">Correo/Usuario</string>
+    <string name="pass">Password</string>
+    <string name="TextoLogin">Si no está registrado, puede hacerlo con el botón REGISTRAR USUARIO</string>
+    <string name="TextoAviso">Los campos con * son obligatorios</string>
+    <string name="bt_ingresar">INGRESAR</string>
+    <string name="bt_reg">REGISTRAR USUARIO</string>
+
+    <string name="nick">Ingrese un Alias*</string>
+    <string name="et_correo">Correo*</string>
+    <string name="et_pass">Contraseña</string>
+    <string name="et_Pass2">Confirme Contraseña</string>
+    <string name="et_nombre">Nombre*</string>
+    <string name="et_apellido">Apellido*</string>
+    <string name="et_naci">Fecha nacimiento* DD/MM/YYYY</string>
+    <string name="et_RUT">RUT* 12345678-K</string>
+    <string name="Sexo">Sexo con el cual te identificas :</string>
+    <string name="Sex_M">Mujer</string>
+    <string name="Sex_H">Hombre</string>
+    <string name="Sex_O">Sin Especificar</string>
+    <string name="Telefono">Telefono</string>
+    <string name="img1">Imagen1</string>
+    <string name="img2">Imagen2</string>
+    <string name="img3">Imagen3</string>
+
+    <string name="Preferencias">Preferencias :</string>
+    <string name="modoNick"     >Utilizar Alias</string>
+    <string name="modoNonbre"   >Utilizar Nombre</string>
+    <string name="avisosSimple" >Avisos Simples</string>
+    <string name="avisosDetalle">Avisos Detallados</string>
+    <string name="modoClaro"    >Usar Modo Claro</string>
+    <string name="modoOscuro"   >Usar Modo Oscuro   </string>
+
+</resources>
